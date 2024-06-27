@@ -1,2 +1,5 @@
 # technical-writing
-Repository contains technical documentation.
+A repository for  technical documentation. 
+
+
+
