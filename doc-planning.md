@@ -14,7 +14,13 @@ Once you gathered prelimainary data, outline your documentation. It can be a sim
 
 Will you use Github to manage your project? 
 
+Will you Notion to manage your tasks?
+
+Think about what tools you need. For documentation, the tools and techniques should closly relate to the engineering process. 
+
 ## Schedule Timelines
+
+Each task in your blog writibg process will require a duration to complete. You will need to list out your writing tasks. Next to each task, 
 
 ## Best Style Guide
 
